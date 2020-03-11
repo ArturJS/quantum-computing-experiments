@@ -1,6 +1,10 @@
 # quantum-computing-experiments
 Trying out Cirq https://cirq.readthedocs.io/en/stable/tutorial.html
 
+### how to run hello-world on Cirq
+```sh
+docker run -it quantumlib/cirq python -c "import cirq; print(cirq.google.Foxtail)"
+```
 
 ## todo:
 
